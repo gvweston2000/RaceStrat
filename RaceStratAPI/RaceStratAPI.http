@@ -1,0 +1,6 @@
+@RaceStratAPI_HostAddress = http://localhost:5139
+
+GET {{RaceStratAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

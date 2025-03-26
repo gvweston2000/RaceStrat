@@ -1,0 +1,16 @@
+# Ignore .NET build outputs.
+bin/
+obj/
+
+# Ignore database files (for SQLite or other local DB files).
+*.db
+
+# Ignore user-specific files.
+.vs/
+.idea/
+.vscode/
+
+# Ignore other unnecessary files.
+.DS_Store
+*.db-shm
+*.db-wal

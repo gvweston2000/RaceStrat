@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceStratAPI", "RaceStratAPI\RaceStratAPI.csproj", "{DB9095BA-7585-443D-B6EF-ED3CA2155A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceStratAPI.Tests", "RaceStratAPI.Tests\RaceStratAPI.Tests.csproj", "{933395F7-5E1E-4862-A08B-C587261FD0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9095BA-7585-443D-B6EF-ED3CA2155A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9095BA-7585-443D-B6EF-ED3CA2155A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9095BA-7585-443D-B6EF-ED3CA2155A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9095BA-7585-443D-B6EF-ED3CA2155A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933395F7-5E1E-4862-A08B-C587261FD0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933395F7-5E1E-4862-A08B-C587261FD0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933395F7-5E1E-4862-A08B-C587261FD0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933395F7-5E1E-4862-A08B-C587261FD0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
